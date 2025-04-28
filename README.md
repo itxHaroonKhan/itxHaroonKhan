@@ -23,14 +23,15 @@
 
 ### 👨‍💻 About Me
 
-Hello! I'm a passionate **Full Stack Developer** with expertise in **React**, **Next.js**, and **Tailwind CSS**.  
-I specialize in building modern, responsive, and user-friendly web applications.  
+Hello! I'm a passionate Frontend Developer, currently learning Full Stack Development.
+I have expertise in React, Next.js, and Tailwind CSS, and I specialize in creating modern, responsive, and user-friendly web applications.
 
-🚀 I enjoy working on innovative projects, contributing to open-source, and continuously learning new technologies.  
-📝 I also love sharing my knowledge through blogs to help and inspire the developer community.  
-🎯 My goal is to create impactful digital experiences and collaborate with amazing people to build something extraordinary!
+🚀 I enjoy working on innovative projects, exploring new technologies, and continuously improving my skills.
+📝 I also love sharing my learning journey through blogs to help and inspire other developers.
+🎯 My goal is to build impactful digital experiences and grow by collaborating with amazing people.
 
-Let's connect and bring ideas to life! 🚀
+
+
 
 ---
 
