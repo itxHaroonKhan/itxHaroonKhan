@@ -1,7 +1,7 @@
-<div align="center" style="background: linear-gradient(135deg, #1e40af, #7c3aed); padding: 20px; border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.3);">
+<div align="center" style="background: linear-gradient(135deg, #1e3a8a, #9333ea); padding: 20px; border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.3);">
   <h1 style="font-size: 2.5rem; font-weight: 800; color: #ffffff; text-shadow: 2px 2px 4px rgba(0,0,0,0.2);">🚀 Haroon Rasheed</h1>
   <h3 style="font-size: 1.5rem; font-weight: 600; color: #e5e7eb;">🌟 Frontend Developer | Open Source Enthusiast | Tech Blogger</h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=34D399¢er=true&vCenter=true&width=500&lines=Frontend+Craftsman;Open+Source+Advocate;Tech+Storyteller;UI/UX+Wizard" alt="Typing SVG" style="margin-top: 10px;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=34D399¢er=true&vCenter=true&width=500&lines=Frontend+Craftsman;Open+Source+Advocate;Tech+Storyteller;UI/UX+Wizard" alt="Typing SVG" style="margin-top: 10px;" />
 </div>
 
 <br>
@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o6F8C8gFz4q9x2b3q/giphy.gif" alt="Code Animation" width="500" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.3); transform: scale(1); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Code Animation" width="500" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.3); transform: scale(1); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
 </div>
 
 ---
@@ -24,7 +24,7 @@
 
 <div style="background: #1f2937; padding: 20px; border-radius: 10px; margin: 20px 0;">
   <p style="color: #d1d5db; font-size: 1.1rem; line-height: 1.6;">
-    Hey there! I'm <strong>Haroon Rasheed</strong>, a passionate <strong>Frontend Developer</strong> from Pakistan 🇵🇰. I specialize in crafting sleek, responsive, and accessible web applications that delight users. My toolkit includes <strong>React</strong>, <strong>Next.js</strong>, and <strong>Tailwind CSS</strong>, and I’m always exploring new ways to enhance UI/UX.  
+    Hey there! I'm <strong>Haroon Rasheed</strong>, a passionate <strong>Frontend Developer</strong> from Pakistan 🇵🇰. I specialize in crafting sleek, responsive, and accessible web applications using <strong>React</strong>, <strong>Next.js</strong>, and <strong>Tailwind CSS</strong>.  
     <br>
     - 💻 Contributing to <strong>open-source</strong> projects with enthusiasm.  
     - ✍️ Sharing my tech journey through blogs to inspire and educate.  
@@ -73,9 +73,9 @@
 
 <div style="background: #1f2937; padding: 15px; border-radius: 10px; margin: 20px 0;">
   <!-- BLOG-POST-LIST:START -->
-  - <a href="https://blog.haroonpk.dev/post/react-optimization" style="color: #60a5fa; text-decoration: none; transition: color 0.3s ease;" onmouseover="this.style.color='#93c5fd'" onmouseout="this.style.color='#60a5fa'">Optimizing React Apps for Speed</a>
-  - <a href="https://blog.haroonpk.dev/post/nextjs-ssr" style="color: #60a5fa; text-decoration: none; transition: color 0.3s ease;" onmouseover="this.style.color='#93c5fd'" onmouseout="this.style.color='#60a5fa'">Mastering SSR with Next.js</a>
-  - <a href="https://blog.haroonpk.dev/post/tailwind-ui" style="color: #60a5fa; text-decoration: none; transition: color 0.3s ease;" onmouseover="this.style.color='#93c5fd'" onmouseout="this.style.color='#60a5fa'">Building Stunning UIs with Tailwind CSS</a>
+  - <a href="https://blog.haroonpk.dev/post/react-performance" style="color: #60a5fa; text-decoration: none; transition: color 0.3s ease;" onmouseover="this.style.color='#93c5fd'" onmouseout="this.style.color='#60a5fa'">Boosting React App Performance</a>
+  - <a href="https://blog.haroonpk.dev/post/nextjs-seo" style="color: #60a5fa; text-decoration: none; transition: color 0.3s ease;" onmouseover="this.style.color='#93c5fd'" onmouseout="this.style.color='#60a5fa'">SEO with Next.js: Best Practices</a>
+  - <a href="https://blog.haroonpk.dev/post/tailwind-responsive" style="color: #60a5fa; text-decoration: none; transition: color 0.3s ease;" onmouseover="this.style.color='#93c5fd'" onmouseout="this.style.color='#60a5fa'">Responsive Design with Tailwind CSS</a>
   <!-- BLOG-POST-LIST:END -->
 </div>
 
