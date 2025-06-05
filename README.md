@@ -1,34 +1,34 @@
-<h1 align="center">🚀 Hi, I'm Haroon Ahmed</h1>
-<h3 align="center">🌟 Web Developer | Open Source Advocate | Tech Enthusiast</h3>
+<h1 align="center">🌌 Hi, I'm Ayesha Malik</h1>
+<h3 align="center">💻 Full Stack Developer | AI Enthusiast | Content Creator</h3>
 
 <p align="center">
-  <a href="https://haroon-portfolio-new.vercel.app/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=24&duration=3000&pause=800&color=00C4B4¢er=true&vCenter=true&width=450&lines=Frontend+Wizard;Open+Source+Contributor;Tech+Writer;Code+Craftsman" alt="Typing SVG" />
+  <a href="https://ayesha-portfolio.vercel.app/" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3200&pause=900&color=FF6F61¢er=true&vCenter=true&width=460&lines=Full+Stack+Innovator;AI+Explorer;Tech+Storyteller;Code+Architect" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://haroon-portfolio-new.vercel.app/">
-    <img src="https://github-profile-trophy.vercel.app/?username=haroonahmeddev&theme=dracula&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <a href="https://ayesha-portfolio.vercel.app/">
+    <img src="https://github-profile-trophy.vercel.app/?username=ayeshamalikdev&theme=gruvbox&row=1&column=6&margin-w=12&margin-h=12" alt="GitHub Trophies" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/haroonahmeddev/haroonahmeddev/main/coding.gif" alt="Coding" width="550" height="280" />
+  <img src="https://raw.githubusercontent.com/ayeshamalikdev/ayeshamalikdev/main/dev-animation.gif" alt="Developer Animation" width="580" height="290" />
 </p>
 
 ---
 
 ---
 
-### 👨‍💻 About Me
+### 👩‍💻 About Me
 
-Hey there! I'm a dedicated Web Developer, diving deep into Full Stack Development.  
-I specialize in building sleek, responsive, and user-centric web applications using tools like React, Next.js, and Tailwind CSS.  
+Hey, I'm Ayesha Malik, a dynamic Full Stack Developer with a passion for building scalable web apps and exploring AI-driven solutions.  
+I thrive on crafting clean, efficient, and visually stunning applications using modern frameworks and tools.  
 
-🌍 Passionate about creating innovative solutions and exploring cutting-edge tech.  
-✍️ I share my knowledge through tech blogs to inspire and guide fellow developers.  
-🎯 My mission is to craft seamless digital experiences and collaborate with creative minds.
+✨ I love experimenting with new tech, contributing to open-source projects, and creating content to empower the dev community.  
+📚 My mission is to bridge creativity and code, delivering solutions that make an impact.  
+🌟 Always learning, always coding, always creating.
 
 ---
 
@@ -36,67 +36,67 @@ I specialize in building sleek, responsive, and user-centric web applications us
 
 <p align="center">
   <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <!-- Backend -->
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <!-- Tools -->
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haroonahmeddev&show_icons=true&theme=dracula" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haroonahmeddev&theme=dracula" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayeshamalikdev&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshamalikdev&theme=tokyonight" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroonahmeddev&layout=compact&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshamalikdev&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-### 🌐 Let's Connect
+### 🌍 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/haroon-ahmed-dev/">
+  <a href="https://www.linkedin.com/in/ayesha-malik-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.twitter.com/haroondev007/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://www.youtube.com/@ayesha_tech_talks">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="mailto:haroonahmed@example.com">
+  <a href="mailto:ayeshamalik@example.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://blog.haroondev.vercel.app/">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" />
+  <a href="https://techblog.ayesha.dev/">
+    <img src="https://img.shields.io/badge/Blog-00BCD4?style=for-the-badge&logo=dev.to&logoColor=white" alt="Blog" />
   </a>
 </p>
 
 ---
 
-### 📝 Latest Blog Posts
+### 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Scalable Apps with Next.js](https://blog.haroondev.vercel.app/post/nextjs-scalability)
-- [React State Management Simplified](https://blog.haroondev.vercel.app/post/react-state)
-- [Mastering Tailwind for Rapid UI Development](https://blog.haroondev.vercel.app/post/tailwind-guide)
+- [Diving into Vue 3: A Beginner's Guide](https://techblog.ayesha.dev/post/vue3-guide)
+- [Why Svelte is the Future of Frontend](https://techblog.ayesha.dev/post/svelte-future)
+- [Scaling APIs with Go and Docker](https://techblog.ayesha.dev/post/go-docker)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=haroonahmeddev&label=Profile+Views&color=7B2CBF&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ayeshamalikdev&label=Profile+Views&color=FF4081&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <a href="https://haroon-portfolio-new.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://ayesha-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%23181717.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
