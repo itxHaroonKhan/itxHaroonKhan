@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/haroonrasheedpk/haroonrasheedpk/main/code-vibes.gif" alt="Code Animation" width="500" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <img src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif" alt="Code Animation" width="500" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
 </div>
 
 ---
