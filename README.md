@@ -4,11 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=3500&pause=800&color=4FD1C5&center=true&vCenter=true&width=460&lines=Frontend+Developer;Open+Source+Contributor;Tech+Blogger;UI+UX+Enthusiast" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <a href="https://haroon-rasheed.vercel.app/">
-    <img src="https://github-profile-trophy.vercel.app/?username=haroonrasheedpk&theme=darkhub&row=1&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies" />
-  </a>
-</div>
+
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif" alt="Code Animation" width="500" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
