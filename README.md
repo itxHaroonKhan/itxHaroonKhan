@@ -1,20 +1,20 @@
-<h1 align="center">🚀 Hi, I'm Haroon Rasheed</h1>
-<h3 align="center">🔥 Frontend Developer | Open Source Contributor | Tech Blogger</h3>
+<h1 align="center">🚀 Hi, I'm Haroon Ahmed</h1>
+<h3 align="center">🌟 Web Developer | Open Source Advocate | Tech Enthusiast</h3>
 
 <p align="center">
-  <a href="https://haroon-portfolio-green.vercel.app/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=Full-stack+Developer;Open+Source+Enthusiast;Tech+Blogger;Problem+Solver" alt="Typing SVG" />
+  <a href="https://haroon-portfolio-new.vercel.app/" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=24&duration=3000&pause=800&color=00C4B4¢er=true&vCenter=true&width=450&lines=Frontend+Wizard;Open+Source+Contributor;Tech+Writer;Code+Craftsman" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://haroon-portfolio-green.vercel.app/">
-    <img src="https://github-profile-trophy.vercel.app/?username=itxharoonkhan&theme=onedark&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <a href="https://haroon-portfolio-new.vercel.app/">
+    <img src="https://github-profile-trophy.vercel.app/?username=haroonahmeddev&theme=dracula&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itxharoonkhan/itxharoonkhan/main/giphy.gif" alt="Coding" width="600" height="300" />
+  <img src="https://raw.githubusercontent.com/haroonahmeddev/haroonahmeddev/main/coding.gif" alt="Coding" width="550" height="280" />
 </p>
 
 ---
@@ -23,18 +23,14 @@
 
 ### 👨‍💻 About Me
 
-Hello! I'm a passionate Frontend Developer, currently learning Full Stack Development.
-I have expertise in React, Next.js, and Tailwind CSS, and I specialize in creating modern, responsive, and user-friendly web applications.
+Hey there! I'm a dedicated Web Developer, diving deep into Full Stack Development.  
+I specialize in building sleek, responsive, and user-centric web applications using tools like React, Next.js, and Tailwind CSS.  
 
-🚀 I enjoy working on innovative projects, exploring new technologies, and continuously improving my skills.
-📝 I also love sharing my learning journey through blogs to help and inspire other developers.
-🎯 My goal is to build impactful digital experiences and grow by collaborating with amazing people.
-
-
-
+🌍 Passionate about creating innovative solutions and exploring cutting-edge tech.  
+✍️ I share my knowledge through tech blogs to inspire and guide fellow developers.  
+🎯 My mission is to craft seamless digital experiences and collaborate with creative minds.
 
 ---
-
 
 ### 🛠 Tech Stack
 
@@ -42,14 +38,14 @@ I have expertise in React, Next.js, and Tailwind CSS, and I specialize in creati
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
 ---
@@ -57,12 +53,12 @@ I have expertise in React, Next.js, and Tailwind CSS, and I specialize in creati
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itxharoonkHAN&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itxharoonkhan&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haroonahmeddev&show_icons=true&theme=dracula" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haroonahmeddev&theme=dracula" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itxharoonkhan&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroonahmeddev&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
 
 ---
@@ -70,17 +66,17 @@ I have expertise in React, Next.js, and Tailwind CSS, and I specialize in creati
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/haroon-rasheed-236a6a2bb/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/haroon-ahmed-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/haroonrasheedkhan007/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.twitter.com/haroondev007/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:haroonrasheedkhan@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:haroonahmed@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://blog-website-seven-pearl.vercel.app/">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=medium&logoColor=white" alt="Blog" />
+  <a href="https://blog.haroondev.vercel.app/">
+    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" />
   </a>
 </p>
 
@@ -88,19 +84,19 @@ I have expertise in React, Next.js, and Tailwind CSS, and I specialize in creati
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Next.js](https://blog-website-seven-pearl.vercel.app/post/nextjs-guide)
-- [Mastering React Hooks](https://blog-website-seven-pearl.vercel.app/post/react-hooks)
-- [Tailwind CSS Tips and Tricks](https://blog-website-seven-pearl.vercel.app/post/tailwind-tips)
+- [Building Scalable Apps with Next.js](https://blog.haroondev.vercel.app/post/nextjs-scalability)
+- [React State Management Simplified](https://blog.haroondev.vercel.app/post/react-state)
+- [Mastering Tailwind for Rapid UI Development](https://blog.haroondev.vercel.app/post/tailwind-guide)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itxharoonkhan&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=haroonahmeddev&label=Profile+Views&color=7B2CBF&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <a href="https://haroon-portfolio-green.vercel.app/">
+  <a href="https://haroon-portfolio-new.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
