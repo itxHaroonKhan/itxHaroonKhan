@@ -1,6 +1,5 @@
 <div align="center">
   
-  <!-- VIP Header with Diagonal Slant Effect -->
   <div style="
     background: linear-gradient(145deg, #0f172a, #1e293b);
     padding: 2rem 1rem;
@@ -14,17 +13,15 @@
         HAROON RASHEED
       </h1>
       <h3 style="color: #cbd5e1; font-weight: 400; margin-top: 0.5rem;">
-        ✦ Frontend Developer ✦ Open Source ✦ Tech Blogger ✦
+        ✦ AI-Driven Full-Stack Engineer ✦ Cloud-Native Specialist ✦ GIAIC Scholar ✦
       </h3>
     </div>
   </div>
 
-  <!-- Animated Typing Effect -->
   <div style="margin: 2rem 0;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38B2AC&center=true&vCenter=true&width=500&lines=Frontend+Developer;Open+Source+Contributor;Tech+Blogger;UI%2FUX+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38B2AC&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Next.js+16+%26+React+19;Kubernetes+%26+Cloud+Native;AI-Driven+Development;FastAPI+%26+PostgreSQL" alt="Typing SVG" />
   </div>
 
-  <!-- Diagonal Hero Image -->
   <div style="
     transform: rotate(-2deg);
     overflow: hidden;
@@ -39,7 +36,6 @@
 
 <br />
 
-<!-- Diagonal Divider -->
 <div style="
   height: 3px;
   background: linear-gradient(90deg, #0ea5e9, #8b5cf6);
@@ -47,7 +43,7 @@
   margin: 3rem 0;
 "></div>
 
-## 👨‍💻 VIP Profile
+## 👨‍💻 VIP Engineer Profile
 
 <div style="
   background: linear-gradient(145deg, #1e293b, #0f172a);
@@ -57,13 +53,13 @@
   box-shadow: 0 8px 24px rgba(0,0,0,0.2);
 ">
   <div style="transform: skewX(3deg);">
-    <p>Hey there! I'm <strong style="color: #38bdf8;">Haroon Rasheed</strong>, a passionate <strong>Frontend Developer</strong> from Pakistan 🇵🇰 specializing in cutting-edge web experiences.</p>
+    <p>Assalam-o-Alaikum! I'm <strong style="color: #38bdf8;">Haroon Rasheed</strong>, an <strong>AI-Driven Full-Stack Engineer</strong> from Karachi, Pakistan 🇵🇰. I specialize in building scalable, cloud-native applications with modern AI integration.</p>
     
     <ul>
-      <li>🚀 Crafting pixel-perfect UIs with <strong>React</strong>, <strong>Next.js</strong> & <strong>Tailwind CSS</strong></li>
-      <li>💡 Open-source contributor building next-gen web tools</li>
-      <li>✍️ Sharing knowledge through tech blogs & tutorials</li>
-      <li>🌐 Collaborating on global web initiatives</li>
+      <li>🚀 Building the future with <strong>Next.js 16</strong>, <strong>FastAPI</strong>, and <strong>PostgreSQL</strong></li>
+      <li>🏗️ Orchestrating microservices with <strong>Kubernetes</strong>, <strong>Docker</strong>, and <strong>Helm</strong></li>
+      <li>🤖 Integrating AI using <strong>Cohere API</strong> and <strong>Model Context Protocol (MCP)</strong></li>
+      <li>🛠️ Following <strong>Spec-Driven Development</strong> (PRDs, ADRs) for production-grade software</li>
     </ul>
   </div>
 </div>
@@ -79,12 +75,20 @@
   border-radius: 18px;
   margin: 2rem 0;
 ">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js%2016-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%2019-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1628?style=for-the-badge&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cohere%20AI-38B2AC?style=for-the-badge&logo=openai&logoColor=white" />
 </div>
 
 <br />
@@ -99,9 +103,9 @@
     justify-content: center;
     transform: skewX(-2deg);
   ">
-    <img src="https://github-readme-stats.vercel.app/api?username=haroonrasheedpk&show_icons=true&theme=nightowl&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=haroonrasheedpk&theme=nightowl&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroonrasheedpk&layout=compact&theme=nightowl&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=itxHaroonKhan&show_icons=true&theme=nightowl&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=itxHaroonKhan&theme=nightowl&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itxHaroonKhan&layout=compact&theme=nightowl&hide_border=true" />
   </div>
 </div>
 
@@ -117,21 +121,17 @@
   margin: 2rem 0;
   box-shadow: 0 8px 24px rgba(0,0,0,0.3);
 ">
-  <a href="https://www.linkedin.com/in/haroon-rasheed-pk/">
+  <a href="https://www.linkedin.com/in/haroon-rasheed-236a6a2bb/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/haroondevpk/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:haroonrasheedpk@example.com">
+  <a href="mailto:itxharoonkhan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://blog.haroonpk.dev/">
-    <img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+  <a href="https://haroon-portfolio-rassheed.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-2962FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
 
-<!-- Diagonal Footer -->
 <div style="
   height: 2px;
   background: linear-gradient(90deg, #8b5cf6, #0ea5e9);
@@ -140,9 +140,9 @@
 "></div>
 
 <div align="center" style="margin-top: 3rem;">
-  <img src="https://komarev.com/ghpvc/?username=haroonrasheedpk&label=PROFILE+VIEWS&color=8b5cf6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=itxHaroonKhan&label=PROFILE+VIEWS&color=8b5cf6&style=flat-square" alt="Profile Views" />
   <br><br>
-  <a href="https://haroon-rasheed.vercel.app/">
-    <img src="https://img.shields.io/badge/Explore_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://haroon-portfolio-rassheed.vercel.app/">
+    <img src="https://img.shields.io/badge/Explore_My_Digital_Garden-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
